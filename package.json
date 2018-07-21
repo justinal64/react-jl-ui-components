@@ -1,0 +1,16 @@
+{
+    "name": "react-jl-ui-components",
+    "version": "1.0.0",
+    "description": "Collection of React UI Components",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "React",
+        "UI",
+        "Library"
+    ],
+    "author": "Justin Leggett <admin@codingrookie.com> (http://justinleggett.me)",
+    "license": "MIT"
+}
